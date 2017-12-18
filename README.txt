@@ -1,3 +1,3 @@
 Hello git
 Added second line
-Another fix to Bug#12345
+Updating with new information
