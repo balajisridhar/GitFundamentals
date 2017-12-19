@@ -1,7 +1,3 @@
 Hello git
 Added second line
-Updating with new information
-
-Sharing remote is fun and easy
-Feature
-Feature2 changes
+Another fix to Bug#12345
